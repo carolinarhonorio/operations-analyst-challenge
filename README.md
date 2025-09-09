@@ -177,6 +177,15 @@ This assistant would ensure **real-time visibility** of key metrics, reduce manu
 
 ---
 
+## 🔄 Updates & Revisions  
+
+- **Sep 08, 2025**: Corrected weekday calculation in the original dataset and updated Looker export.  
+  - Fixed weekday numbering (now starting on Sunday).  
+  - Updated weekday labels to English.  
+  - Re-uploaded Looker Studio PDF export to reflect corrected metrics.  
+
+---
+
 ## 👤 Author  
 
 **Carolina Honorio**  
